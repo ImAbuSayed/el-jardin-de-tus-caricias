@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El jardín de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
+| **Get License** | [Commercial Licensing for El jardín de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `071e6234ab01de6fe84902b0bc16a29775b48e6b17efae6995f3c86e3f3089ac` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
