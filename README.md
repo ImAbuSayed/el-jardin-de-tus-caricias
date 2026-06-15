@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for El jardín de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
+| **Get License** | [Get a Licensing Quote for El jardín de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-jardin-de-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está pidiendo que te acerques
+> Tu mirada me dice todo, ya no lo pienses
+> Sé que quieres perderte conmigo hasta las tres
+> Tonight is ours, deja que fluya esta vez
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
